@@ -1,5 +1,7 @@
 <?php
 
+
+//2014.10.31 我加入git 进行修改 实现git 本地更新
 class randtime{
 
 	public function index($n,$begintime, $endtime){
